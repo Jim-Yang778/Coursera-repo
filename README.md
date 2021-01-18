@@ -1,1 +1,5 @@
 # Coursera-repo
+
+This is the repository of Coursera course: HTML, CSS, and Javascript for Web developer.
+
+Assignment_2 Solution: [Link] ()

@@ -4,13 +4,12 @@ body {
   font-family: 'Oxygen', sans-serif;
 }
 
-/** HEADER **/
 #header-nav {
   background-color: #785454;
   border-radius: 0;
 }
 
-.navbar-brand h1 { /* Restaurant name */
+.navbar-brand h1 {
   font-family: 'Lora', serif;
   color: #F9AEAE;
   font-size: 1.5em;

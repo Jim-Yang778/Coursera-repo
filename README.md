@@ -7,3 +7,5 @@ Assignment_2: [Solution](https://jim-yang778.github.io/Coursera-repo/module2_sol
 Assignment_3: [Solution](https://jim-yang778.github.io/Coursera-repo/module3_solution/index.html)
 
 Assignment_4: [Solution](https://jim-yang778.github.io/Coursera-repo/module4_solution/index.html)
+
+Assignment_5: [Solution](https://jim-yang778.github.io/Coursera-repo/module5_solution/index.html)
